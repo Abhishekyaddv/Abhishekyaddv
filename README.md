@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [Working on It](Working on It)
-
 - 💬 Ask me about **React, Java & Javascript**
 
 - 📫 How to reach me **ay6293347@gmail.com**
