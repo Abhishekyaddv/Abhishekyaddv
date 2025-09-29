@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekyaddv&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekyaddv" /> </p>
 
-- 🔭 I’m currently working on [Vanilla-Amazon-Clone](https://abhishekyaddv.github.io/Vanilla-Amazon-Project/amazon.html)
+- 🔭 My Mini Porfolio (https://abhishekyaddv.github.io/Mini-Portfolio/index.html)
 
 - 🌱 I’m currently learning **React**
 
