@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekyaddv&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekyaddv" /> </p>
 
-- 🔭 My Mini Porfolio (https://abhishekyaddv.github.io/Mini-Portfolio/index.html)
+- 🔭 My LinkedIn (https://www.linkedin.com/in/abhishekyaaddv/recent-activity/all/))
 
 - 🌱 I’m currently learning **React**
 
