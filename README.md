@@ -6,15 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekyaddv&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekyaddv" /> </p>
 
+- 🔭 My Portfolio (https://www.abhishekyadav.dev)
+
 - 🔭 My LinkedIn (https://www.linkedin.com/in/abhishekyaaddv/recent-activity/all/))
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **React, Java & Javascript**
+- 💬 Ask me about **React, Java, Nodejs, MongoDB, Postgress & Javascript**
 
-- 📫 How to reach me **ay6293347@gmail.com**
+- 📫 How to reach me **abhishekyaaddv@gmail.com**
 
-- 📄 Know about my experiences [Fresher](Fresher)
+- 📄 Know about my experiences --> (Full stack Intern at Social Cult)
 
 - ⚡ Fun fact **24/7 Delusional but Selfaware at the same Time**
 
