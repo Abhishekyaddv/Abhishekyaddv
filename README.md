@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 <h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
-<h3 align="center">A passionate frontend developer from Noida, India</h3>
+<h3 align="center">A passionate Fullstack developer from Noida, India</h3>
 
 <img align = "right" alt = "coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
